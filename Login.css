@@ -1,0 +1,56 @@
+
+
+.container{
+   
+   align-items: center;
+   display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  font-family: 'Poppins', sans-serif; 
+  
+}
+.backgroundlogin{
+    background-color: rgb(228, 241, 241);
+    width: 600px;
+    height: 706px;
+    box-shadow: 2px 8px 4px 0px rgba(0, 0, 0, 0.25);
+    border: 1px solid #CCC3C3;
+    border-right: none;
+
+}
+
+.context{
+    background-color: #FFFFFF;
+    width: 650px;
+    height: 706px;
+    box-shadow: 2px 8px 4px 0px rgba(0, 0, 0, 0.25); 
+    border: 1px solid #CCC3C3;
+    border-left: none;
+
+}
+.contextcenter ul{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    font-size: 1.1rem;
+}
+.contextcenter .para{
+    text-align: center;
+    font-size: 1.9rem;
+}
+.loginbutton{
+    
+    padding: 15px 187px 15px 187px;
+    margin-top: 30px;
+    background-color: black;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    border-radius: 8px; 
+}
+
+.contextcenter ul div input{
+    padding: 15px 230px 15px 15px;
+    font-family: 'Poppins', sans-serif; 
+    border-radius: 8px;
+
+}
